@@ -1,1 +1,1 @@
-# this is a test dosier soon tto be terminated 
+# this was created for study purposes
